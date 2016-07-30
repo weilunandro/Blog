@@ -27,6 +27,10 @@ cache:
   directories:
     - node_modules # NPM packages
 
+notifications:
+  email:
+    - 651878205@qq.com
+
 env:
  global:
    - GH_REF: github.com/weilunandro/weilunandro.github.io.git
